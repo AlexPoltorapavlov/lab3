@@ -63,7 +63,7 @@ https://github.com/AlexPoltorapavlov/lab3/blob/main/GIFs/1_Ball.gif
 ![image](https://github.com/AlexPoltorapavlov/lab3/blob/main/GIFs/9_balls.gif)
 https://github.com/AlexPoltorapavlov/lab3/blob/main/GIFs/9_balls.gif
 
-![image](https://github.com/AlexPoltorapavlov/lab3/blob/main/GIFs/9_balls.gif)
+![image](https://github.com/AlexPoltorapavlov/lab3/blob/main/GIFs/27_balls.gif)
 https://github.com/AlexPoltorapavlov/lab3/blob/main/GIFs/27_balls.gif
 
 ### Вывод: 
