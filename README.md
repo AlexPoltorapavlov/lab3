@@ -64,7 +64,7 @@ https://github.com/AlexPoltorapavlov/lab3/blob/main/GIFs/1_Ball.gif
 https://github.com/AlexPoltorapavlov/lab3/blob/main/GIFs/9_balls.gif
 
 ![image](https://github.com/AlexPoltorapavlov/lab3/blob/main/GIFs/9_balls.gif)
-https://github.com/AlexPoltorapavlov/lab3/blob/main/GIFs/9_balls.gif
+https://github.com/AlexPoltorapavlov/lab3/blob/main/GIFs/27_balls.gif
 
 ### Вывод: 
 Научился учить шар преследовать объекты. Изучил код C#, изучил yaml файл. Возможно из-за ограниченных ресурсов компьютера, но особой разницы между скоростью обучения нейронной сети при одном, трех, девяти и двадцати семи полях я не увидел. Чем больше было полей, тем медленнее работал Unity. Так как все делалол строго по методичке, никакого кода не прикреплял. Нет смысла, ведь код не менялся
