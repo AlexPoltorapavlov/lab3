@@ -55,9 +55,11 @@
 - В корень проекта добавили файл конфигурации нейронной сети, доступный в папке с файлами проекта по ссылке из методички.
 - Запустили работу ml-агента в консоли:
 - Запустили сцену в проекте Unity, так там работал ML-Agent:
+
 ![image](https://github.com/AlexPoltorapavlov/lab3/blob/main/GIFs/1_Ball.gif)
 https://github.com/AlexPoltorapavlov/lab3/blob/main/GIFs/1_Ball.gif
 - Сделал 3, 9, 27 копий модели «Плоскость-Сфера-Куб», запустил симуляцию сцены и наблюдал за результатом обучения модели и замедлениями работы компьютера:
+
 ![image](https://github.com/AlexPoltorapavlov/lab3/blob/main/GIFs/9_balls.gif)
 https://github.com/AlexPoltorapavlov/lab3/blob/main/GIFs/9_balls.gif
 
